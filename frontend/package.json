@@ -54,7 +54,7 @@
 		"monaco-editor": "^0.33.0",
 		"monaco-languageclient": "^1.0.1",
 		"svelte-awesome": "^3.0.0",
-		"svelte-markdown": "^0.2.1",
+		"svelte-markdown": "^0.2.3",
 		"svelte-split-pane": "^0.1.2"
 	}
 }
